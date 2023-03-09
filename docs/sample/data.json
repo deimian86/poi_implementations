@@ -45,8 +45,7 @@
                     "type": "parada",
                     "name": "Gijón Bici La Arena",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://raw.githubusercontent.com/deimian86/poi_implementations/main/docs/sample/1002_01.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
@@ -62,8 +61,7 @@
                     "type": "parada",
                     "name": "Gijón Bici Poniente",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://raw.githubusercontent.com/deimian86/poi_implementations/main/docs/sample/1003_01.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
