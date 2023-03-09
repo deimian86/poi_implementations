@@ -23,11 +23,11 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "1001",
+                    "lat": "43.533",
+                    "lon": "-5.670",
+                    "type": "parada",
+                    "name": "Gijón Bici Institutos",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
@@ -40,11 +40,62 @@
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "1002",
+                    "lat": "43.539",
+                    "lon": "-5.650",
+                    "type": "parada",
+                    "name": "Gijón Bici La Arena",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1003",
+                    "lat": "43.541",
+                    "lon": "-5.673",
+                    "type": "parada",
+                    "name": "Gijón Bici Poniente",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1004",
+                    "lat": "43.540",
+                    "lon": "-5.693",
+                    "type": "parada",
+                    "name": "Gijón Bici La Calzada",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1005",
+                    "lat": "43.540",
+                    "lon": "-5.666",
+                    "type": "parada",
+                    "name": "Gijón Bici Acerona",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
