@@ -165,8 +165,7 @@
                     "type": "poi",
                     "name": "Elogio del Horizonte",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://es.wikipedia.org/wiki/Elogio_del_horizonte#/media/Archivo:Elogio_chillida_gijon.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
