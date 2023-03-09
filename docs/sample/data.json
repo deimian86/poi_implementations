@@ -1,7 +1,7 @@
 {
     "meta": {
-        "app_id": "es.seresco.quickapp",
-        "app_title": "City Street Heritage",
+        "app_id": "es.seresco.appedales",
+        "app_title": "APPedales",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://github.com/deimian86/poi_implementations/blob/main/docs/sample/data.json",
@@ -16,7 +16,7 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_info": "Visita los puntos más turísticos de la ciudad de una manera saludable y sostenible.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
