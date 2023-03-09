@@ -106,6 +106,91 @@
                         "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
+                },
+                {
+                    "id": "1006",
+                    "lat": "43.5344027",
+                    "lon": "-5.6718871",
+                    "type": "poi",
+                    "name": "Estatua de Jovellanos",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1007",
+                    "lat": "43.5370782",
+                    "lon": "-5.664076",
+                    "type": "poi",
+                    "name": "Monumento a la Madre del Emigrante",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1008",
+                    "lat": "43.5371404",
+                    "lon": "-5.677723",
+                    "type": "poi",
+                    "name": "La Escalerona",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1009",
+                    "lat": "43.540",
+                    "lon": "-5.666",
+                    "type": "poi",
+                    "name": "Gijón Bici Acerona",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "1010",
+                    "lat": "43.540",
+                    "lon": "-5.666",
+                    "type": "poi",
+                    "name": "Gijón Bici Acerona",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
                 }
             ]
         }
