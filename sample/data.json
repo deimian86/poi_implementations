@@ -160,10 +160,10 @@
                 },
                 {
                     "id": "1009",
-                    "lat": "43.540",
-                    "lon": "-5.666",
+                    "lat": "43.5371404",
+                    "lon": "-5.6777236",
                     "type": "poi",
-                    "name": "Gijón Bici Acerona",
+                    "name": "Elogio del Horizonte",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
@@ -177,10 +177,10 @@
                 },
                 {
                     "id": "1010",
-                    "lat": "43.540",
-                    "lon": "-5.666",
+                    "lat": "43.5393181",
+                    "lon": "-5.7022712",
                     "type": "poi",
-                    "name": "Gijón Bici Acerona",
+                    "name": "Torre de la memoria",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
